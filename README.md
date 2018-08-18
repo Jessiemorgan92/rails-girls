@@ -1,3 +1,5 @@
+# rails-girls
+This is a test app - #learning2RubyonRails
 # README
 
 This README would normally document whatever steps are necessary to get the
